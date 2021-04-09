@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/WithdrawAcc.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Data/CreateNewDB.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Bank/Bank.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Bank/BankAccount.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/About.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/AddSavingsAccount.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Bank/SavingsAccount.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Exceptions/InvalidAmount.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/AddStudentAccount.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/DisplayList.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/DepositAcc.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Data/InsertRecordOnDB.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Exceptions/AccNotFound.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Exceptions/MaxWithdraw.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Exceptions/MaxBalance.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/GlobalVers.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Data/CreateTableOnDB.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/AddAccount.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/Login.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Application.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/GUIForm.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Bank/CurrentAccount.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/Bank/StudentAccount.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/Menu.java</file>
+            <file>file:/home/billi/Desktop/BankSystem/src/GUI/AddCurrentAccount.java</file>
+        </group>
+    </open-files>
+</project-private>
